@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 6aeadb37787a3e74f8faacd68ec4d418
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7739174863403153873
+    second: _wheel.mount.F.R|Cart.FrameAction
+  - first:
+      74: -3723441461980363352
+    second: _wheel.mount.F.R|Cart.MeshAction
+  - first:
+      74: -5129792139291556403
+    second: _wheel.mount.F.R|CartAction
+  - first:
+      74: 420040051334613727
+    second: _wheel.mount.F.R|Wheel.B.RAction
+  - first:
+      74: 1192311177866646688
+    second: _wheel.mount.F.R|Wheel.B.RAction.001
+  - first:
+      74: 8344020269630245920
+    second: _wheel.mount.F.R|Wheel.B.RAction.002
+  - first:
+      74: -5438485888600518510
+    second: _wheel.mount.F.R|Wheel.B.RAction.003
+  - first:
+      74: 8704968463078818944
+    second: _wheel.mount.F.R|Wheel.B.RAction.004
+  - first:
+      74: 8227303807438205753
+    second: _wheel.mount.F.R|Wheel.B.RAction.005
+  - first:
+      74: 7818418853397501236
+    second: _wheel.mount.F.R|Wheel.B.RAction.006
+  - first:
+      74: 7707707350305651457
+    second: _wheel.mount.F.R|Wheel.f.r.Action
+  - first:
+      74: 4228314518997914493
+    second: _wheel.mount.F.R|Wheel.F.RAction
+  - first:
+      74: -3861151154510270307
+    second: Cart.Mesh|Cart.FrameAction
+  - first:
+      74: -8468266611561554502
+    second: Cart.Mesh|Cart.MeshAction
+  - first:
+      74: -805760135738865596
+    second: Cart.Mesh|CartAction
+  - first:
+      74: 635824108627443748
+    second: Cart.Mesh|Wheel.B.RAction
+  - first:
+      74: -112770314251626039
+    second: Cart.Mesh|Wheel.B.RAction.001
+  - first:
+      74: -2413774300227885321
+    second: Cart.Mesh|Wheel.B.RAction.002
+  - first:
+      74: 71285323787373264
+    second: Cart.Mesh|Wheel.B.RAction.003
+  - first:
+      74: 2267667360973848677
+    second: Cart.Mesh|Wheel.B.RAction.004
+  - first:
+      74: 367292440742992902
+    second: Cart.Mesh|Wheel.B.RAction.005
+  - first:
+      74: -1070131460671072897
+    second: Cart.Mesh|Wheel.B.RAction.006
+  - first:
+      74: 1806125393829836724
+    second: Cart.Mesh|Wheel.f.r.Action
+  - first:
+      74: 9133688538808381481
+    second: Cart.Mesh|Wheel.F.RAction
+  - first:
+      74: -5530950987302034580
+    second: _wheel.mount.B.R|Cart.FrameAction
+  - first:
+      74: 782491416664172410
+    second: _wheel.mount.B.R|Cart.MeshAction
+  - first:
+      74: -378601790160501204
+    second: _wheel.mount.B.R|CartAction
+  - first:
+      74: -6899792879739513877
+    second: _wheel.mount.B.R|Wheel.B.RAction
+  - first:
+      74: 820636096472823043
+    second: _wheel.mount.B.R|Wheel.B.RAction.001
+  - first:
+      74: -8687096172976809445
+    second: _wheel.mount.B.R|Wheel.B.RAction.002
+  - first:
+      74: -1795448995588092743
+    second: _wheel.mount.B.R|Wheel.B.RAction.003
+  - first:
+      74: 5270503104136427894
+    second: _wheel.mount.B.R|Wheel.B.RAction.004
+  - first:
+      74: -2876029437701249981
+    second: _wheel.mount.B.R|Wheel.B.RAction.005
+  - first:
+      74: -220948411815201435
+    second: _wheel.mount.B.R|Wheel.B.RAction.006
+  - first:
+      74: -1691760703630588927
+    second: _wheel.mount.B.R|Wheel.f.r.Action
+  - first:
+      74: -3925519350961575437
+    second: _wheel.mount.B.R|Wheel.F.RAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
